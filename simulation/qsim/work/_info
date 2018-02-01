@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vcm/Desktop/ECE350/Lab3/simulation/qsim
+v\2_bit_comparator 
+Z1 !s110 1517520436
+!i10b 1
+!s100 d>H`ZYLACaDKD:I4a9f]60
+II;;I?XWdNmcWFXKolJn6]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1517520432
+Z4 8Lab3.vo
+Z5 FLab3.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1517520436.000000
+Z8 !s107 Lab3.vo|
+Z9 !s90 -work|work|Lab3.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@1342_bit_comparator@040
+vhard_block
+R1
+!i10b 1
+!s100 i=f2U[DiIC_AHi=4P;>C93
+I>:KFb1LCEgRT^]S_=0iD;0
+R2
+R0
+R3
+R4
+R5
+L0 250
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
